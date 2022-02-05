@@ -1,7 +1,16 @@
-body{
+body {
     background-color: blueviolet;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
 }
-#table{
-    display: grid;
-    grid-template-columns: 10px 100px;
+
+#table {
+    display: inline-grid;
+    grid-template-columns: 100px, 100px;
+}
+
+a {
+    text-decoration: none;
+    color: lightcoral;
 }
