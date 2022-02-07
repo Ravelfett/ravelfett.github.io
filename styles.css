@@ -14,3 +14,32 @@ a {
     text-decoration: none;
     color: lightcoral;
 }
+
+.bizarre {
+    fill: none;
+    fill-opacity: 1;
+    stroke: purple;
+    stroke-width: 4;
+    stroke-miterlimit: 4;
+    stroke-dasharray: none;
+    stroke-opacity: 1;
+    stroke-linecap: round;
+}
+
+#mu {
+    fill: white;
+    stroke: white;
+    stroke-width: 27.7342;
+    stroke-opacity: 1;
+}
+
+#lambda {
+    fill: none;
+    stroke: purple;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 4;
+    stroke-dasharray: none;
+    stroke-opacity: 1
+}
